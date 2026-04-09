@@ -14,4 +14,4 @@
 
 **Ejercicio 5: Creación de un CV en LATex**
 
-**Ejercicio 6: Creación de un archivo con metadatos en el entorno R*
+**Ejercicio 6: Creación de un archivo con metadatos en el entorno R**
