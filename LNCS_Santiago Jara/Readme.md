@@ -2,6 +2,6 @@
 
 Los archivos pueden ser descargados mediante los siguientes atajos
 
-[Descarga mi Informe del Módulo 1 en PDF]
+[Descarga mi Informe del Módulo 1 en PDF](https://github.com/jarasantiago/modulo1/blob/main/LNCS_Santiago%20Jara/Informe%20M%C3%B3dulo%201.pdf)
 
 [Descarga el archivo zip. con todo el proyecto en LaTeX]
