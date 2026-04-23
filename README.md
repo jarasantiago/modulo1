@@ -17,7 +17,7 @@ Este Repositorio esta destinado al módulo 1 de la materia 'Técnicas y herramie
 # Entrega de algoritmos
 Los archivos pueden ser descargados mediante los siguientes atajos
 
-**CV:**
+**Entrega CV utilizando la plantilla LaTeX**
 
 [Descarga CV en PDF]
 
