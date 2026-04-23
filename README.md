@@ -23,7 +23,7 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 [Descarga el archivo zip. con todo el proyecto]
 
-**Informe LNCS:**
+**Uso del formato LNCS en LaTeX-Módulo 1**
 
 [Descarga Informe LNCS en PDF]
 
