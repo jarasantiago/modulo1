@@ -25,6 +25,6 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 **Uso del formato LNCS en LaTeX-Módulo 1**
 
-[Descarga Informe LNCS en PDF]
+[Descarga Informe LNCS en PDF](https://github.com/jarasantiago/modulo1/blob/main/LNCS_Santiago%20Jara/Informe%20M%C3%B3dulo%201.pdf)
 
-[Descarga el archivo zip. con todo el proyecto]
+[Descarga el archivo zip. con todo el proyecto en LaTeX](https://github.com/jarasantiago/modulo1/blob/main/LNCS_Santiago%20Jara/Informe%20M%C3%B3dulo%201.zip)
