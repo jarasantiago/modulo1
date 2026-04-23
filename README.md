@@ -19,9 +19,9 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 **Entrega CV utilizando la plantilla LaTeX**
 
-[Descarga CV en PDF]
+[Descarga mi CV en PDF](https://github.com/jarasantiago/modulo1/blob/main/CV/CV_Santiago_Jara.pdf)
 
-[Descarga el archivo zip. con todo el proyecto]
+[Descarga el archivo zip. con todo el proyecto en LaTeX](https://github.com/jarasantiago/modulo1/blob/main/CV/CV_Santiago_Jara.zip)
 
 **Uso del formato LNCS en LaTeX-Módulo 1**
 
