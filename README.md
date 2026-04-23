@@ -16,9 +16,15 @@ Este Repositorio esta destinado al módulo 1 de la materia 'Técnicas y herramie
 **Ejercicio 6: Creación de un archivo con metadatos en el entorno R**
 # Entrega de algoritmos
 Los archivos pueden ser descargados mediante los siguientes atajos
-**CV**
+
+**CV:**
+
 [Descarga CV en PDF]
+
 [Descarga el archivo zip. con todo el proyecto]
-**Informe LNCS**
+
+**Informe LNCS:**
+
 [Descarga Informe LNCS en PDF]
+
 [Descarga el archivo zip. con todo el proyecto]
